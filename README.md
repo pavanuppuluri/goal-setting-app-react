@@ -43,6 +43,7 @@ Some of the concepts I used in this application are -
 * React **props**
 * React **state**
 * React **event handling**
+* React **hooks**
 * Validations
 * **Styling**
 * **JavaScript**
