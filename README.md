@@ -8,6 +8,7 @@ Application features include -
 1. Add Goal
 2. Delete Goal
 3. Goal Summary
+4. Validation
 
 * <b>Home Page</b>
   ![Screenshot](HomePage.JPG)
@@ -24,6 +25,9 @@ Application features include -
     ![Screenshot](HomePage.JPG)
 * <b>Goal Summary</b>
   ![Screenshot](GoalsSummaryPage.JPG)
+* <b>Validation</b>
+  * Clicking on Add Goal Button with empty goal results in validation error
+  ![Screenshot](Validation.JPG)
     
 To run this follow below steps
 
