@@ -32,7 +32,7 @@ Application features include -
 To run this follow below steps
 
 1. Clone the repo https://github.com/pavanuppuluri/goal-setting-app-react.git
-2. Now open command prompt and go to react-expense-tracker folder
+2. Now open command prompt and go to goal-setting-app-react folder
 3. Run npm install This command installs required dependencies from package.json
 4. Run npm start
 
