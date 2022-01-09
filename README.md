@@ -16,7 +16,7 @@ Application features include -
   * Enter the Goal and click on Add Goal button 
     ![Screenshot](AddGoal.JPG)
   * Now added goal displayed in goals summary
-    ![Screenshot](GoalAdded.JPG)
+    ![Screenshot](AddedGoal.JPG)
 * <b>Delete Goal</b>
   * Delete a completed goal by clicking on it  
     ![Screenshot](DeleteGoal.JPG)
